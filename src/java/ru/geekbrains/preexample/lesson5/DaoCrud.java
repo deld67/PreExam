@@ -1,4 +1,4 @@
-package ru.geekbrains.preexample.lesson5;
+package java.ru.geekbrains.preexample.lesson5;
 
 import java.util.List;
 
